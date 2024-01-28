@@ -1,0 +1,11 @@
+/give @s minecraft:experience_bottle 192
+/gamemode creative
+/give @s minecraft:obsidian
+/give @s minecraft:end_crystal
+/gamemode creative
+/give @s minecraft:obsidian
+/give @s minecraft:end_crystal
+/gamemode survival
+/gamemode creative
+/give @s minecraft:obsidian
+/give @s minecraft:end_crystal

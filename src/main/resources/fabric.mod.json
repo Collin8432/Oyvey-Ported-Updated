@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "mio",
+  "version": "${version}",
+  "name": "Mio",
+  "description": "Mio Example Client (https://github.com/mioclient/oyvey-ported) Base Client",
+  "authors": [
+    "Collin",
+    "3arthqu4ke",
+    "alpha432",
+    "cattyn"
+  ],
+  "contact": {
+    "repo": ""
+  },
+  "license": "MIT",
+  "environment": "client",
+  "accessWidener": "mio.accesswidener",
+  "entrypoints": {
+    "client": [
+      "mio.example.Mio"
+    ],
+    "main": [
+      "mio.example.Mio"
+    ]
+  },
+  "mixins": [
+    "mio.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

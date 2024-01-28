@@ -1,0 +1,90 @@
+{
+  "Hud": {
+    "Enabled": "false",
+    "Drawn": "true",
+    "Keybind": -1,
+    "DisplayName": "Hud"
+  },
+  "ClickGui": {
+    "Enabled": "false",
+    "Drawn": "true",
+    "Keybind": 344,
+    "DisplayName": "ClickGui",
+    "Prefix": ".",
+    "CustomFov": "false",
+    "Fov": "150.0",
+    "Red": "0",
+    "Green": "0",
+    "Blue": "255",
+    "Alpha": "180",
+    "SecondRed": "0",
+    "SecondGreen": "0",
+    "SecondBlue": "150",
+    "HoverAlpha": "240",
+    "Rainbow": "false",
+    "HRainbowMode": "Static",
+    "ARainbowMode": "Static",
+    "Delay": "240",
+    "Brightness ": "150.0",
+    "Saturation": "150.0"
+  },
+  "Criticals": {
+    "Enabled": "false",
+    "Drawn": "true",
+    "Keybind": -1,
+    "DisplayName": "Criticals"
+  },
+  "CrystalAura": {
+    "Enabled": "false",
+    "Drawn": "true",
+    "Keybind": -1,
+    "DisplayName": "CrystalAura",
+    "Break Crystals": "true",
+    "Place Crystals": "true",
+    "Swap": "true",
+    "Anti Weakness": "true",
+    "Rotate": "false",
+    "Range": "6.0",
+    "Min Health": "2.0",
+    "Min Damage": "2.0",
+    "Min Ratio": "0.5",
+    "Render Block": "true"
+  },
+  "AutoRespawn": {
+    "Enabled": "true",
+    "Drawn": "true",
+    "Keybind": -1,
+    "DisplayName": "AutoRespawn"
+  },
+  "MCF": {
+    "Enabled": "false",
+    "Drawn": "true",
+    "Keybind": -1,
+    "DisplayName": "MCF"
+  },
+  "Step": {
+    "Enabled": "false",
+    "Drawn": "true",
+    "Keybind": -1,
+    "DisplayName": "Step",
+    "Height": "2.0"
+  },
+  "ReverseStep": {
+    "Enabled": "false",
+    "Drawn": "true",
+    "Keybind": -1,
+    "DisplayName": "ReverseStep"
+  },
+  "FastPlace": {
+    "Enabled": "false",
+    "Drawn": "true",
+    "Keybind": -1,
+    "DisplayName": "FastPlace"
+  },
+  "Velocity": {
+    "Enabled": "true",
+    "Drawn": "true",
+    "Keybind": -1,
+    "DisplayName": "Velocity"
+  }
+}
