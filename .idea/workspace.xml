@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c6373372-0cc4-4280-aeb4-46c3c61f25c4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/run/.fabric/remappedJars/minecraft-1.20.4-0.15.3/client-intermediary.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/crash-reports/crash-2024-01-28_13.25.44-client.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mio/example/font/FontAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mio/example/font/FontRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mio/example/font/FontRenderers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mio/example/font/Glyph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mio/example/font/GlyphMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mio/example/font/RendererFontAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mio/example/mixin/MixinTitleScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/mio/fonts/CalSansSemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/mio/fonts/Cubano.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/mioexample.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/mioexample.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Client.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Client.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Server.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Server.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2024-01-28-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2024-01-28-1.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2024-01-28-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2024-01-28-2.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2024-01-28-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2024-01-28-3.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2024-01-28-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2024-01-28-4.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2024-01-28-5.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2024-01-28-5.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2024-01-28-6.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2024-01-28-6.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2024-01-28-7.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2024-01-28-7.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/latest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mio/example/mixin/MixinMinecraftClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mio/example/mixin/MixinMinecraftClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mio.mixins.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mio.mixins.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2bawdULLYHgAoYISEziIuendRT5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.Oyvey-Ported-Updated.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Minecraft Client" />
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-19.0.2-corretto-19.0.2-f644763e9732-1e16d6ec" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6373372-0cc4-4280-aeb4-46c3c61f25c4" name="Changes" comment="" />
+      <created>1706466586636</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706466586636</updated>
+    </task>
+    <servers />
+  </component>
+</project>

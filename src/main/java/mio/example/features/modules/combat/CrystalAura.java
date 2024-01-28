@@ -30,7 +30,6 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 public class CrystalAura extends Module {
-    private final Timer timer = new Timer();
     private final Setting<Boolean> breakCrystals = this.register(new Setting<>("Break Crystals", true));
     private final Setting<Boolean> placeCrystals = this.register(new Setting<>("Place Crystals", true));
     private final Setting<Boolean> swap = this.register(new Setting<>("Swap", true));

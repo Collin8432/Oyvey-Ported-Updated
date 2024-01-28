@@ -29,6 +29,8 @@ dependencies {
 
     compileOnly 'org.projectlombok:lombok:1.18.24'
     annotationProcessor 'org.projectlombok:lombok:1.18.24'
+
+//    include modImplementation("org.ladysnake:satin:1.15.0")
 }
 
 processResources {

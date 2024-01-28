@@ -16,8 +16,6 @@ public class AutoRespawn extends Module {
     }
 
     @Subscribe private void onScreenSet(ScreenSetEvent event) {
-        Mio.LOGGER.info(String.valueOf(event.getScreen()));
-
         if (mc.player == null) {
             return;
         }

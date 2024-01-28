@@ -1,7 +1,9 @@
 package mio.example.mixin;
 
 import mio.example.event.impl.ScreenSetEvent;
+import mio.example.font.FontRenderers;
 import net.minecraft.client.MinecraftClient;
+import net.minecraft.client.RunArgs;
 import net.minecraft.client.gui.screen.Screen;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
@@ -17,5 +19,16 @@ public class MixinMinecraftClient {
         ScreenSetEvent event = new ScreenSetEvent(screen);
         EVENT_BUS.post(event);
         if (event.isCancelled()) ci.cancel();
+    }
+
+    @Inject(method = "<init>", at = @At("TAIL"))
+    void postWindowInit(RunArgs args, CallbackInfo ci) {
+        try {
+            FontRenderers.main = FontRenderers.createDefault(24f, "Cubano");
+            FontRenderers.mainBig = FontRenderers.createDefault(72f, "Cubano");
+            FontRenderers.secondary = FontRenderers.createDefault(16f, "CalSansSemiBold");
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
     }
 }
